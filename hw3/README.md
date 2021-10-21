@@ -20,6 +20,8 @@ Every bert example has a ipynb file with a gradio and WandB implementation. The 
 
 The `hw_3_bert_ner` is the only example with a custom WandB implementation since we use PyTorch in that example. The Keras examples have a really nice callback function which can automatically report/record metrics. 
 
+Also please note, some of the metrics show only one dot. This is because the training was taking very long. So I only ran for one epoch. 
+
 ### [hw_3_bert_disaster](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_disaster/hw_3_bert_disaster.ipynb)
 
 #### hw_3_bert_disaster - WandB
