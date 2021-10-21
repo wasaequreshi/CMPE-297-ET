@@ -16,31 +16,51 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 
 ### [hw_3_bert_disaster](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_disaster/hw_3_bert_disaster.ipynb)
 
+#### hw_3_bert_disaster - WanDB
+
 ![hw_3_bert_disaster - WandDB](./hw_3_bert_disaster/hw_3_bert_disaster_wandb.png)
+
+#### hw_3_bert_disaster - Gradio
 
 ![hw_3_bert_disaster - Gradio](./hw_3_bert_disaster/hw_3_bert_disaster_gradio.png)
 
 ### [hw_3_bert_github_bug_feature_question](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question.ipynb)
 
+#### hw_3_bert_github_bug_feature_question - WanDB
+
 ![hw_3_bert_github_bug_feature_question - WandDB](./hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question_wandb.png)
+
+#### hw_3_bert_github_bug_feature_question - Gradio
 
 ![hw_3_bert_github_bug_feature_question - Gradio](./hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question_gradio.png)
 
 ### [hw_3_bert_ner](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_ner/hw_3_bert_ner.ipynb)
 
+#### hw_3_bert_ner - WanDB
+
 ![hw_3_bert_ner - WandDB](./hw_3_bert_ner/hw_3_bert_ner_wandb.png)
+
+#### hw_3_bert_ner - Gradio
 
 ![hw_3_bert_ner - Gradio](./hw_3_bert_ner/hw_3_bert_ner_gradio.png)
 
 ### [hw_3_bert_sentiment_analysis](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis.ipynb)
 
+#### hw_3_bert_sentiment_analysis - WanDB
+
 ![hw_3_bert_sentiment_analysis - WandDB](./hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis_wandb.png)
+
+#### hw_3_bert_sentiment_analysis - Gradio
 
 ![hw_3_bert_sentiment_analysis - Gradio](./hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis_gradio.png)
 
 ### [hw_3_bert_spam_classification](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_spam_classification/hw_3_bert_spam_classification.ipynb)
 
+#### hw_3_bert_spam_classification - WanDB
+
 ![hw_3_bert_spam_classification - WandDB](./hw_3_bert_spam_classification/hw_3_bert_spam_classification_wandb.png)
+
+#### hw_3_bert_spam_classification - Gradio
 
 ![hw_3_bert_spam_classification - Gradio](./hw_3_bert_spam_classification/hw_3_bert_spam_classification_gradio.png)
 
