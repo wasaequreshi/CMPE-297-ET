@@ -35,9 +35,9 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 ![hw_3_bert_sentiment_analysis - Gradio](./hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis_gradio.png)
 
 ### hw_3_bert_spam_classification
-![hw_3_bert_spam_classification - WandDB](./hw_3_bert_spam_classification/hw_3_bert_spam_detection_wandb.png)
+![hw_3_bert_spam_classification - WandDB](./hw_3_bert_spam_classification/hw_3_bert_spam_classification_wandb.png)
 
-![hw_3_bert_spam_classification - Gradio](./hw_3_bert_spam_classification/hw_3_bert_spam_detection_gradio.png)
+![hw_3_bert_spam_classification - Gradio](./hw_3_bert_spam_classification/hw_3_bert_spam_classification_gradio.png)
 
 ### Demo
 
