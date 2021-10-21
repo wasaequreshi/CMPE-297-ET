@@ -12,11 +12,17 @@ I used the following links for each respective Bert assignment:
 
 There was some copying and pasting and but additional code that needed to be added in order to make them work. 
 
-Each directory has an ipynb file which shows the implementation. I took a screenshot of both the wandb and gradio and added those as well. I will showcase them below:
+Each directory has an ipynb file which shows the implementation. I took a screenshot of both the WandB and gradio and added those as well. I will showcase them below.
+
+### Overview
+
+Every bert example has a ipynb file with a gradio and WandB implementation. The ipynb file has comments and instructions on how it works. 
+
+The `hw_3_bert_ner` is the only example with a custom WandB implementation since we use PyTorch in that example. The Keras examples have a really nice callback function which can automatically report/record metrics. 
 
 ### [hw_3_bert_disaster](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_disaster/hw_3_bert_disaster.ipynb)
 
-#### hw_3_bert_disaster - WanDB
+#### hw_3_bert_disaster - WandB
 
 ![hw_3_bert_disaster - WandDB](./hw_3_bert_disaster/hw_3_bert_disaster_wandb.png)
 
@@ -26,7 +32,7 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 
 ### [hw_3_bert_github_bug_feature_question](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question.ipynb)
 
-#### hw_3_bert_github_bug_feature_question - WanDB
+#### hw_3_bert_github_bug_feature_question - WandB
 
 ![hw_3_bert_github_bug_feature_question - WandDB](./hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question_wandb.png)
 
@@ -36,7 +42,7 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 
 ### [hw_3_bert_ner](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_ner/hw_3_bert_ner.ipynb)
 
-#### hw_3_bert_ner - WanDB
+#### hw_3_bert_ner - WandB
 
 ![hw_3_bert_ner - WandDB](./hw_3_bert_ner/hw_3_bert_ner_wandb.png)
 
@@ -46,7 +52,7 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 
 ### [hw_3_bert_sentiment_analysis](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis.ipynb)
 
-#### hw_3_bert_sentiment_analysis - WanDB
+#### hw_3_bert_sentiment_analysis - WandB
 
 ![hw_3_bert_sentiment_analysis - WandDB](./hw_3_bert_sentiment_analysis/hw_3_bert_sentiment_analysis_wandb.png)
 
@@ -56,7 +62,7 @@ Each directory has an ipynb file which shows the implementation. I took a screen
 
 ### [hw_3_bert_spam_classification](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_spam_classification/hw_3_bert_spam_classification.ipynb)
 
-#### hw_3_bert_spam_classification - WanDB
+#### hw_3_bert_spam_classification - WandB
 
 ![hw_3_bert_spam_classification - WandDB](./hw_3_bert_spam_classification/hw_3_bert_spam_classification_wandb.png)
 
