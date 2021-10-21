@@ -14,12 +14,12 @@ There was some copying and pasting and but additional code that needed to be add
 
 Each directory has an ipynb file which shows the implementation. I took a screenshot of both the wandb and gradio and added those as well. I will showcase them below:
 
-### hw_3_bert_disaster
+### [hw_3_bert_disaster](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_disaster/hw_3_bert_disaster.ipynb)
 ![hw_3_bert_disaster - WandDB](./hw_3_bert_disaster/hw_3_bert_disaster_wandb.png)
 
 ![hw_3_bert_disaster - Gradio](./hw_3_bert_disaster/hw_3_bert_disaster_gradio.png)
 
-### hw_3_bert_github_bug_feature_question
+### [hw_3_bert_github_bug_feature_question](https://github.com/wasaequreshi/CMPE-297-ET/blob/master/hw3/hw_3_bert_disaster/hw_3_bert_disaster.ipynb)
 ![hw_3_bert_github_bug_feature_question - WandDB](./hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question_wandb.png)
 
 ![hw_3_bert_github_bug_feature_question - Gradio](./hw_3_bert_github_bug_feature_question/hw_3_bert_github_bug_feature_question_gradio.png)
